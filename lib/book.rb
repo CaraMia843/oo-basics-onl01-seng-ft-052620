@@ -3,7 +3,7 @@ class Book
     
   end
   def title
-    
+    puts 
   end
   
   
